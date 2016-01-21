@@ -2,7 +2,7 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://MattWohler.github.io
-title: Matt
-tagline: A log of everyday life
-description: My awesome new site
+title: Digging Into Development
+tagline: php, clean-code
+description: php, clean-code
 paginate: 5
