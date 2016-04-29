@@ -1,8 +1,0 @@
-excerpt_separator: ""
-pygments: true
-markdown: kramdown
-url: http://MattWohler.github.io
-title: Digging Into Development
-tagline: php, clean-code
-description: php, clean-code
-paginate: 5
